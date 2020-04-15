@@ -70,7 +70,11 @@ namespace TweetBook
                     template: "{controller=Home}/{action=Index}/{id?}");
             });
             new changes
+<<<<<<< HEAD
                 more changes
+=======
+                changes 2
+>>>>>>> master
         }
     }
 }
