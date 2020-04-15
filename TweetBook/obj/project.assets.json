@@ -13416,11 +13416,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Irada\\source\\repos\\TweetBook\\TweetBook\\TweetBook2.csproj",
+      "projectUniqueName": "C:\\Users\\Irada\\source\\TweetBook\\TweetBook\\TweetBook2.csproj",
       "projectName": "TweetBook2",
-      "projectPath": "C:\\Users\\Irada\\source\\repos\\TweetBook\\TweetBook\\TweetBook2.csproj",
+      "projectPath": "C:\\Users\\Irada\\source\\TweetBook\\TweetBook\\TweetBook2.csproj",
       "packagesPath": "C:\\Users\\Irada\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Irada\\source\\repos\\TweetBook\\TweetBook\\obj\\",
+      "outputPath": "C:\\Users\\Irada\\source\\TweetBook\\TweetBook\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
